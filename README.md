@@ -1,5 +1,6 @@
 ## Hi there 👋
 我爱猫娘，我喜欢你，你喜欢我
+我爱Palind
 
 <!--
 **James-Li-1117/James-Li-1117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
